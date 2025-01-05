@@ -11,7 +11,7 @@ This is a Netflix Clone project that mimics the functionality and design of Netf
 
 ## Screenshot
 
-![Screenshot](Screenshot 2025-01-05 135618)
+![Screenshot](Screenshot 2025-01-05 135618.png)
 
 ## Technologies Used
 
